@@ -16,13 +16,13 @@ description = "A clean blogging theme"
 generate_feed = true
 
 taxonomies = [
-    {name = "tags", rss = true},
-    {name = "categories", rss = true},
+	{name = "tags", rss = true},
+	{name = "categories", rss = true},
 ]
 
 [extra]
 anpu_date_format="%e %B %Y"
 anpu_menu_links = [
-    { url = "$BASE_URL/about/", name = "About" },
-    { url = "$BASE_URL/tags/", name = "Tags" },
+	{ url = "$BASE_URL/about/", name = "About" },
+	{ url = "$BASE_URL/tags/", name = "Tags" },
 ]

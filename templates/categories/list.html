@@ -7,12 +7,12 @@
 <h1>Categories</h1>
 
 <ul class="terms">
-    {% for term in terms %}
-    <li>
-        <a href="{{ term.permalink }}">
-        {{ term.name }}
-        </a>
-    </li>
-    {% endfor %}
+	{% for term in terms %}
+	<li>
+		<a href="{{ term.permalink }}">
+		{{ term.name }}
+		</a>
+	</li>
+	{% endfor %}
 </ul>
 {% endblock content %}
