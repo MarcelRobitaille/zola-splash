@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://marcelrobitaille.github.io/zola-splash/sitemap.xml

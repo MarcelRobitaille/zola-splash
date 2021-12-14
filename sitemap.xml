@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://marcelrobitaille.github.io/zola-splash/</loc>
+    </url>
+    <url>
+        <loc>https://marcelrobitaille.github.io/zola-splash/about/</loc>
+    </url>
+    <url>
+        <loc>https://marcelrobitaille.github.io/zola-splash/another-post/</loc>
+        <lastmod>2020-06-06</lastmod>
+    </url>
+    <url>
+        <loc>https://marcelrobitaille.github.io/zola-splash/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://marcelrobitaille.github.io/zola-splash/tags/</loc>
+    </url>
+    <url>
+        <loc>https://marcelrobitaille.github.io/zola-splash/tags/other/</loc>
+    </url>
+    <url>
+        <loc>https://marcelrobitaille.github.io/zola-splash/tags/rust/</loc>
+    </url>
+    <url>
+        <loc>https://marcelrobitaille.github.io/zola-splash/what-is-zola/</loc>
+        <lastmod>2020-06-06</lastmod>
+    </url>
+</urlset>
