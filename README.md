@@ -30,10 +30,12 @@ taxonomies = [
 
 ## How To Customize
 
-There are two things you can customize:
+There are four things you can customize:
 
+- Thumbnail images
 - The links to be included in the menu
 - The date format of the posts
+- The author for the copyright
 
 ### Header images
 
