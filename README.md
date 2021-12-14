@@ -35,6 +35,16 @@ There are two things you can customize:
 - The links to be included in the menu
 - The date format of the posts
 
+### Header images
+
+The claim to fame of this fork is the thumbnail images.
+To enable them, add the following to the front matter.
+
+```toml
+[extra]
+header_image = "/path/to/image.jpg"
+```
+
 ### Menu links
 
 In your `config.toml` under the `[extra]` section you need to set the `splash_menu_links` list.
