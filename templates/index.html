@@ -51,7 +51,7 @@
 		</main>
 		<footer>
 			<p>
-				© {{ config.title }} {{ now() | date(format="%Y") }}<br>
+				© {% if config.extra.splash_author %}{{ config.extra.splash_author }}{% else %}{{ config.title }}{% endif %} {{ now() | date(format="%Y") }}<br>
 				Powered by <a target="_blank" href="https://getzola.org/">Zola</a>, Theme <a target="_blank" href="https://github.com/MarcelRobitaille/zola-splash">Splash</a>.
 			</p>
 			<p>

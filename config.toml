@@ -21,6 +21,7 @@ taxonomies = [
 ]
 
 [extra]
+splash_author = "Marcel Robitaille"
 splash_date_format="%e %B %Y"
 splash_menu_links = [
 	{ url = "$BASE_URL/about/", name = "About" },
